@@ -14,10 +14,10 @@
 ## Plots
 
 Training Loss
-![Training & validation loss](assets/loss.png)
+![Training & validation loss](results/loss_curves.png)
 
 t-SNE of Latent Space
-![t-SNE projection of latents](assets/tsne.png)
+![t-SNE projection of latents](results/t-SNE.png)
 
 ---
 
