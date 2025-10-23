@@ -13,9 +13,9 @@
 
 ## Plots
 
-<div style="display:flex; gap:20px; flex-wrap: wrap;">
-  <img src="results/loss_curves.png" alt="Training & validation loss" width="350"/>
-  <img src="results/t-SNE.png" alt="t-SNE projection of latents" width="350"/>
+<div style="display:flex; gap:20px; flex-wrap: wrap; justify-content: center;">
+  <img src="results/loss_curves.png" alt="Training & validation loss" width="500" height="350"/>
+  <img src="results/t-SNE.png" alt="t-SNE projection of latents" width="500" height="350"/>
 </div>
 
 ---
