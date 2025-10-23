@@ -13,11 +13,10 @@
 
 ## Plots
 
-Training Loss
-![Training & validation loss](results/loss_curves.png)
-
-t-SNE of Latent Space
-![t-SNE projection of latents](results/t-SNE.png)
+<div style="display:flex; gap:20px; flex-wrap: wrap;">
+  <img src="results/loss_curves.png" alt="Training & validation loss" width="350"/>
+  <img src="results/t-SNE.png" alt="t-SNE projection of latents" width="350"/>
+</div>
 
 ---
 
